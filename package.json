@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "name": "myapp",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
